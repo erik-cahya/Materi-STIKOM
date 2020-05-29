@@ -1,0 +1,8 @@
+
+
+ERD Relation
+DDL DML
+Normalisasi Anomali Depedensi
+Left Join Right Join Union All
+
+
